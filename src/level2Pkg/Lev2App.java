@@ -1,3 +1,5 @@
+package level2Pkg;
+
 import java.util.Scanner;
 
 public class Lev2App {

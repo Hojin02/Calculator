@@ -1,3 +1,5 @@
+package level1Pkg;
+
 import java.util.Scanner;
 
 public class Level1 {
