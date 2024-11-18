@@ -2,7 +2,7 @@ package level3Pkg;
 
 import java.util.Scanner;
 
-public class App<T extends Number> {
+public class App {
     public static void main(String[] args) {
         Calculator calculator = new Calculator();
 
